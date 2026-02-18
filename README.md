@@ -1,7 +1,8 @@
-# Li-Fi
- [Data Transmission Through Light]
+# Li-Fi [Data Transmission Through Light]
 ## One-line description:
 A working Li-Fi prototype that wirelessly transmits audio using modulated light — no Wi-Fi, no Bluetooth, just light.
+
+![Image](https://github.com/user-attachments/assets/2e922b15-7c4f-4cb0-b8ba-d1f430da0ee6)
 
 ## How It Works (detailed)
 The system has two sides — a transmitter and a receiver.
